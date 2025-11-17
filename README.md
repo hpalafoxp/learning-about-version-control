@@ -3,3 +3,5 @@
 Hector Palafox Prieto
 
 522 - Individual Assignment 1
+
+Conflict in remote
