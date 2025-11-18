@@ -1,2 +1,4 @@
-# learning-about-version-control
+# Learning about Version Control
 522 - Individual Assignment 1
+
+Author: Hector Palafox Prieto
